@@ -119,7 +119,7 @@ a:active {
 .btn-main,
 .btn-transparent,
 .btn-small {
-  background: #655E7A;
+  background: #6f6e73;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -143,8 +143,8 @@ a:active {
   color: #fff;
 }
 .btn-solid-border:hover {
-  border: 1px solid #655E7A;
-  background: #655E7A;
+  border: 1px solid #6f6e73;
+  background: #6f6e73;
 }
 /*--
 	Header Start
@@ -206,7 +206,8 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  /*background: linear-gradient(to left, #8b86a3, #322e40);*/
+  background: linear-gradient(to left, #4f4d54, #6b131e);
   opacity: 0.8;
 }
 
@@ -377,7 +378,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #6f6e73;
   color: #fff;
   padding: 10px 20px;
 }
@@ -567,7 +568,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #portfolio-work .block .portfolio-menu ul .active {
-  color: #655E7A;
+  color: #6f6e73;
   position: relative;
 }
 
@@ -650,7 +651,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
   font-size: 13px;
-  color: #655E7A;
+  color: #6f6e73;
 }
 
 #portfolio-work .block .portfolio-contant ul img {
@@ -905,7 +906,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .post-title {
-  color: #655E7A;
+  color: #6f6e73;
   font-size: 25px;
   font-weight: 600;
   display: block;
