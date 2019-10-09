@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poems on Liberty for Hong Kong</title>
+    <link>/tags/poems/</link>
+    <description>Recent content in poems on Liberty for Hong Kong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/poems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We Are What We Are Made Of</title>
+      <link>/writing/we-are-what-we-made-of/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/we-are-what-we-made-of/</guid>
+      <description>Beginning from every day tears are shed: their tails are puffs of smoke.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Liberty for Hong Kong</title>
+    <link>/music/</link>
+    <description>Recent content in Music on Liberty for Hong Kong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FUCKTHEPOPO/屌狗</title>
+      <link>/music/fuck-the-popo/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/music/fuck-the-popo/</guid>
+      <description>A legendary piece from our very own rapper - JB</description>
+    </item>
+    
+    <item>
+      <title>Glory to Hong Kong / 願榮光歸香港</title>
+      <link>/music/glory-to-hong-kong/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/music/glory-to-hong-kong/</guid>
+      <description>Also known as &amp;lsquo;The Anthem&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Sing Hallelujah to the Lord</title>
+      <link>/music/sing-hallelujah-to-the-lord/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/music/sing-hallelujah-to-the-lord/</guid>
+      <description>A Christian hymn that was popularised in the 2019 protests.</description>
+    </item>
+    
+    <item>
+      <title>二零一九 by LMF</title>
+      <link>/music/lmf2019/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/music/lmf2019/</guid>
+      <description>New 2019 song by LMF</description>
+    </item>
+    
+    <item>
+      <title>試問誰還未發聲</title>
+      <link>/music/do-you-hear-the-people-sing/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/music/do-you-hear-the-people-sing/</guid>
+      <description>Cantonese version of &amp;lsquo;Do you hear the people sing&amp;rsquo; from the musical Les Miserables</description>
+    </item>
+    
+  </channel>
+</rss>
