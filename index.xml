@@ -99,7 +99,8 @@
       
       <guid>/about/</guid>
       <description>About Liberty for Hong Kong Liberty for Hong Kong, or L4HK is a non-profit and collaborative project to crowdsource and document Hong Kong&amp;rsquo;s journey to achieving meaningful freedom, democracy, and autonomy. This project was first created in the wake of the 2019 Anti-Extradition Bill protests. Check us out on GitHub.
-L4HK is not supported or funded by any organisation.</description>
+L4HK is not supported or funded by any organisation.
+Introduction The 2019 protests against the controversial extradition bill in Hong Kong unearthed a network of underlying factors and forces which threaten to erode the civil liberties of its citizens.</description>
     </item>
     
     <item>
@@ -118,7 +119,8 @@ L4HK is not supported or funded by any organisation.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/art/</guid>
-      <description>Art This page is currently under construction.</description>
+      <description> Art A gallery showcasing the artwork produced during the 2019 protests.
+div.gallery {display: flex;flex-wrap: wrap;}div.gallery a {flex-grow: 1;object-fit: cover;margin: 2px;display: flex;}div.gallery a img { height: 200px;object-fit: cover;flex-grow: 1;}                          </description>
     </item>
     
     <item>
