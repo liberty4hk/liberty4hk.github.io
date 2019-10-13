@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>An open later to Foreigners residing in Hong Kong</title>
+      <link>/writing/open-letter-to-foreigners-residing-in-hk/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/open-letter-to-foreigners-residing-in-hk/</guid>
+      <description>It does not matter if you are Gweilo, Filipino, Nepali or if you belong to any other people, this land is our land and our land is your land.</description>
+    </item>
+    
+    <item>
       <title>If you&#39;ve come to congratulate us, don&#39;t. Our struggle is far from over</title>
       <link>/writing/dont-congratulate-us/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
@@ -120,7 +129,7 @@ Introduction The 2019 protests against the controversial extradition bill in Hon
       
       <guid>/art/</guid>
       <description> Art A gallery showcasing the artworks of the 2019 protests.
-div.gallery {display: flex;flex-wrap: wrap;}div.gallery a {flex-grow: 1;object-fit: cover;margin: 2px;display: flex;}div.gallery a img { height: 200px;object-fit: cover;flex-grow: 1;}                                                                             </description>
+div.gallery {display: flex;flex-wrap: wrap;}div.gallery a {flex-grow: 1;object-fit: cover;margin: 2px;display: flex;}div.gallery a img { height: 200px;object-fit: cover;flex-grow: 1;}                                                                              </description>
     </item>
     
     <item>
@@ -135,15 +144,14 @@ How to contribute using GitHub repository Contributing articles Pre-requisites: 
     </item>
     
     <item>
-      <title>Philosophy</title>
-      <link>/philosophy/</link>
+      <title>Slogans</title>
+      <link>/slogans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/philosophy/</guid>
-      <description> Take Back Hong Kong, the Revolution of Our Time 光復香港，時代革命
-Be Water Hong Kongers, keep it up 香港人, 加油
-Five demands, no less 五大訴求 缺一不可
-終有一日，我哋會喺煲底除底口罩面罩相擁，各位手足未來見 </description>
+      <guid>/slogans/</guid>
+      <description>Note: The primary source material is taken from Mary Hui&amp;rsquo;s QZ article.1 Please support the original author by visiting the original site.
+Take Back Hong Kong, the Revolution of Our Time //光復香港，時代革命
+The clarion call of the current wave of ongoing protests—also often translated as “liberate” or “reclaim”—this slogan traces its roots back to the election campaign of activist Edward Leung, currently serving a six-year prison sentence for rioting and assaulting a police officer during the so-called Fishball Revolution of 2016.</description>
     </item>
     
   </channel>
