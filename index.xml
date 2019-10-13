@@ -120,7 +120,7 @@ Introduction The 2019 protests against the controversial extradition bill in Hon
       
       <guid>/art/</guid>
       <description> Art A gallery showcasing the artworks of the 2019 protests.
-div.gallery {display: flex;flex-wrap: wrap;}div.gallery a {flex-grow: 1;object-fit: cover;margin: 2px;display: flex;}div.gallery a img { height: 200px;object-fit: cover;flex-grow: 1;}                          </description>
+div.gallery {display: flex;flex-wrap: wrap;}div.gallery a {flex-grow: 1;object-fit: cover;margin: 2px;display: flex;}div.gallery a img { height: 200px;object-fit: cover;flex-grow: 1;}                                                                             </description>
     </item>
     
     <item>
