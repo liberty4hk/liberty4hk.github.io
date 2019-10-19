@@ -107,10 +107,6 @@
   </url>
   
   <url>
-    <loc>/timeline-aelab/</loc>
-  </url>
-  
-  <url>
     <loc>/art/</loc>
   </url>
   
@@ -119,7 +115,15 @@
   </url>
   
   <url>
+    <loc>/declaration-july-1/</loc>
+  </url>
+  
+  <url>
     <loc>/slogans/</loc>
+  </url>
+  
+  <url>
+    <loc>/timeline-aelab/</loc>
   </url>
   
 </urlset>
