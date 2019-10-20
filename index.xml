@@ -162,6 +162,15 @@ We are protesters from the civic society. If there’s a choice, we wish we didn
     </item>
     
     <item>
+      <title>Documentary</title>
+      <link>/documentary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/documentary/</guid>
+      <description> Please see partial documentary-gallery.html To update content, go to data &amp;gt; documentary.yml The id parameter overrides any content shown here - to change this, add {{ .Content }}      </description>
+    </item>
+    
+    <item>
       <title>Slogans</title>
       <link>/slogans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
